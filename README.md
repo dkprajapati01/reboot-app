@@ -1,38 +1,42 @@
 # REBOOT
 
-![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-6-3178C6?style=flat-square&logo=typescript) ![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=flat-square&logo=vite) ![Local%20First](https://img.shields.io/badge/Local-First-2ECC71?style=flat-square)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-6-3178C6?style=for-the-badge&logo=typescript) ![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=for-the-badge&logo=vite) ![Local%20First](https://img.shields.io/badge/Local-First-2ECC71?style=for-the-badge)
 
 > Build better routines. Notice your patterns. Take control again.
 
-REBOOT is a personal growth and habit-tracking app designed to help people regain momentum, understand their triggers, and build healthier daily routines. It brings together check-ins, goal tracking, journaling, habits, and a calming urge-support space into one focused wellness dashboard.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b86873-996c-4d10-86a7-0b8f2d102c52.gif" width="820" alt="REBOOT banner" />
+</div>
+
+REBOOT is a personal growth and habit-tracking app built to help people regain momentum, understand their triggers, and create healthier daily routines. It blends check-ins, journaling, habit tracking, and a calming urge-support flow into one focused wellness dashboard.
 
 ## Why REBOOT?
 
-Life gets noisy. Progress gets inconsistent. REBOOT helps users slow down and act with clarity.
+Life gets noisy. Progress gets inconsistent. REBOOT gives people a calmer way to reflect, reset, and move forward with clarity.
 
-- Notice mood, energy, and patterns over time
-- Build routines that actually stick
-- Recover with support instead of guilt
+- Notice mood, energy, and behavior patterns
+- Build routines that actually last
+- Recover with support instead of self-judgment
 - Stay consistent through small, repeatable wins
 
-## Features
+## Core Features
 
 - Daily mood and self-check-in tracking
 - Habit and routine management
-- Goal planning and milestone tracking
+- Goal planning and personal milestone tracking
 - Private journal for reflection and setbacks
-- Urge Mode with calming tools and breathing support
+- Urge Mode with breathing and grounding tools
 - Achievement system for progress motivation
 - Privacy-first local data storage
 - Guest and account-based onboarding flow
 
-## How it works
+## How It Works
 
-1. Track your day with quick check-ins
-2. Spot recurring patterns and triggers
-3. Improve routines and stay accountable
-4. Recover gently when things go off track
-5. Keep growing with small, sustainable wins
+1. Track your day with quick, thoughtful check-ins
+2. Spot recurring triggers and patterns over time
+3. Improve routines with clear accountability
+4. Recover gently when life gets hard
+5. Keep growing through steady habits and reflection
 
 ## Tech Stack
 
@@ -52,7 +56,7 @@ Life gets noisy. Progress gets inconsistent. REBOOT helps users slow down and ac
 - Node.js 18+
 - npm
 
-### Install
+### Install dependencies
 
 ```bash
 npm install
@@ -64,7 +68,7 @@ npm install
 npm run dev
 ```
 
-Then open the local URL shown in the terminal, typically:
+Then open the local URL shown in the terminal, usually:
 
 ```bash
 http://localhost:5173
@@ -109,19 +113,19 @@ reboot/
 └── public/
 ```
 
-## Best for
+## Best For
 
 - Personal wellness tracking
 - Habit formation and routine building
-- Self-reflection and journaling
 - Recovery and urge management
-- Small personal productivity experiments
+- Goal tracking and accountability
+- Reflection and journaling
 
 ## Notes
 
 - Built with a local-first experience in mind
-- Data is handled in a lightweight local storage flow
-- Best suited for personal growth and wellness product exploration
+- Data is handled through a lightweight local storage flow
+- Best suited for personal growth, wellness exploration, and early product prototypes
 
 ## License
 
@@ -129,4 +133,6 @@ This project does not currently include a license file. If you plan to share it 
 
 ---
 
-Built for calmer routines, clearer habits, and real momentum.
+<p align="center">
+  <sub>Built for calmer routines, clearer habits, and real momentum.</sub>
+</p>
